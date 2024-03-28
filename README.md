@@ -7,9 +7,5 @@
   Ans: In HTML DOM there are two way we can propagation event bubbling and capturing.
   Bublling is by default child element fire first .. In capturing mood parent firs first..
 #### What is the difference between nodelist and HTMLcollection?
-  <Markdown
-      source="Ans: HTMLcollection is the collection of html element and nodelist is the collection of document node element.
-  The main difference between nodelist and HTMLcollection is that we can access HTMLcollection by using their id,class,tagname and also using index number but in nodelist we     can access their element only using index number.."
-      disallowedTypes={['Paragraph']}
-      unwrapDisallowed
-  />
+  Ans: HTMLcollection is the collection of html element and nodelist is the collection of document node element.
+  The main difference between nodelist and HTMLcollection is that we can access HTMLcollection by using their id,class,tagname and also using index number but in nodelist we     can access their element only using index number..
