@@ -9,3 +9,5 @@
 #### What is the difference between nodelist and HTMLcollection?
   Ans: HTMLcollection is the collection of html element and nodelist is the collection of document node element.
   The main difference between nodelist and HTMLcollection is that we can access HTMLcollection by using their id,class,tagname and also using index number but in nodelist we     can access their element only using index number..
+#### What is the difference between setTimeOut and setInterval function?
+  Ans: The difference between setTimeOut and setInterval is that setTimeOut funciton excute after provide milisecand of time and setInterval are exute continuesly based on the   milisecand that we can provide ...
