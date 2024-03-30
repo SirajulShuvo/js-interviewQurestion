@@ -12,3 +12,4 @@
 #### What is the difference between setTimeOut and setInterval function?
   Ans: The difference between setTimeOut and setInterval is that setTimeOut funciton excute after provide milisecand of time and setInterval are exute continuesly based on the   milisecand that we can provide ...
 #### what is the difference between local storage and session storage?
+  Ans: The difference between localstorage and session storage is that localstorage store data few weaks ,month or year but session storage store data for one session..
